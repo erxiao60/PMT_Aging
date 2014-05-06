@@ -1,0 +1,20 @@
+brief note for aging test of first 44 PMTs.
+
+Set threshold: ~50C
+2014-04-24-11-32-49.dat 85mins        0     , 85mins
+2014-04-24-12-57-30.dat 12 hours      85mins, ...
+2014-04-24-23-39-45.dat 79mins       727mins, 807mins 
+2014-04-25-00-59-23.dat 24 hours     807mins, ...
+2014-04-25-23-04-10.dat 130mins     2132mins, 2262mins
+2014-04-26-01-14-24.dat long time
+
+2014.04.26-12-03                    2911mins stop Acq!
+the department power off 
+stop Acq!
+
+adding time to the binary data.   
+adding temperature monitors.
+reset threshold: ~30fC
+
+2014-04-29-10-11-30.dat long time   7119mins start Acq!
+                                    ~50h     stop!
